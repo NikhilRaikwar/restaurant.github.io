@@ -1,5 +1,7 @@
-# Restaurant-Website
-Responsive Website Design Using HTML CSS And JavaScript 🥗 | Website Restaurant Light/Dark mode
-Don't forget to follow the account for more projects like this. 
+# Responsive Website Restaurant
+## [Watch it on youtube](https://youtu.be/5RIFrZEjURA)
+### Responsive Website Restaurant
+Nice design of a responsive restaurant website 🥗 . It contains a header, home, about, services, menu, app, contact and a footer. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.
 
-![Resume cv](/1.jpg)
+Don't forget to join the channel for more videos like this.
+[Bedimcode](https://www.youtube.com/c/Bedimcode)
